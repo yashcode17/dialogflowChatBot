@@ -1,0 +1,2 @@
+//add in the package.js in the end in the fulfillment of DialogFlow
+"@google-cloud/datastore": "^1.1.0"
